@@ -42,6 +42,7 @@ namespace ACH.Domain
         }
     }
 
+    //test
     public class ArticleTaxonomy
     {
         [XmlElement("Taxonomy")]
