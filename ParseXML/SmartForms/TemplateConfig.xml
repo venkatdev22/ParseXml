@@ -1,0 +1,46 @@
+﻿<root>
+  <Settings>
+    <Logo>/uploadedImages/Configuration/logo.png?n=5496</Logo>
+    <FooterSmartFormContentID datavalue_idtype="content:htmlcontent" datavalue_displayvalue="Footer «HTML Content:35»">35</FooterSmartFormContentID>
+    <UtilityNavigationMenuID>6</UtilityNavigationMenuID>
+    <MainNavigationID datavalue_idtype="taxonomy" datavalue_displayvalue="Main Navigation «Taxonomy:117»">117</MainNavigationID>
+    <FeaturedTaxonomyID datavalue_idtype="taxonomy" datavalue_displayvalue="Featured «Taxonomy:118»">118</FeaturedTaxonomyID>
+    <AppendToPageTitle>- The Arlington Catholic Herald</AppendToPageTitle>
+    <FacebookProfileURL>https://www.facebook.com/ArlingtonCatholicHerald</FacebookProfileURL>
+    <TwitterProfileURL>https://twitter.com/acatholicherald</TwitterProfileURL>
+    <PinterestProfileURL>https://www.pinterest.com/acatholicherald</PinterestProfileURL>
+    <RSSFeed datavalue_idtype="taxonomy" datavalue_displayvalue="Local News «Taxonomy:128»">128</RSSFeed>
+    <RSSFeed datavalue_idtype="taxonomy" datavalue_displayvalue="National &amp; International «Taxonomy:129»">129</RSSFeed>
+    <EventDefaultHeroImage></EventDefaultHeroImage>
+    <ColumnistDefaultProfilePicture></ColumnistDefaultProfilePicture>
+    <DisqusConfiguration>devcatholicherald</DisqusConfiguration>
+    <FacebookConfiguration>ArlingtonCatholicHerald</FacebookConfiguration>
+    <FacebookAppIdEN>800002Demo</FacebookAppIdEN>
+    <FacebookAdminsId>7897APTest</FacebookAdminsId>
+    <FeaturedVideoTaxonomyID datavalue_idtype="taxonomy" datavalue_displayvalue="Video «Taxonomy:197»">197</FeaturedVideoTaxonomyID>
+    <FeaturedPhotoGalleryTaxonomyID datavalue_idtype="taxonomy" datavalue_displayvalue="Photos «Taxonomy:198»">198</FeaturedPhotoGalleryTaxonomyID>
+    <FeaturedEventsTaxID datavalue_idtype="taxonomy" datavalue_displayvalue="Events «Taxonomy:199»">199</FeaturedEventsTaxID>
+    <FeaturedArticleTaxID datavalue_idtype="taxonomy" datavalue_displayvalue="Articles «Taxonomy:200»">200</FeaturedArticleTaxID>
+    <FeaturedClassifiedsTaxID datavalue_idtype="taxonomy" datavalue_displayvalue="Classifieds «Taxonomy:201»">201</FeaturedClassifiedsTaxID>
+    <FeaturedLettersTaxID datavalue_idtype="taxonomy" datavalue_displayvalue="Letters To Editor «Taxonomy:202»">202</FeaturedLettersTaxID>
+    <FeaturedBlogTaxID datavalue_idtype="taxonomy" datavalue_displayvalue="Blogs «Taxonomy:203»">203</FeaturedBlogTaxID>
+    <ClassifiedPostBackContentID datavalue_idtype="content:htmlcontent" datavalue_displayvalue="Sample Content Block «HTML Content:30»">30</ClassifiedPostBackContentID>
+    <EventPostBackContentID datavalue_idtype="content:htmlcontent" datavalue_displayvalue="Sample Content Block «HTML Content:30»">30</EventPostBackContentID>
+    <LetterToEditorPostBackContentID datavalue_idtype="content:htmlcontent" datavalue_displayvalue="Sample Content Block «HTML Content:30»">30</LetterToEditorPostBackContentID>
+    <CNSYoutubeChannel></CNSYoutubeChannel>
+    <ACHYoutubeChannel>ArlingCatholicHerald</ACHYoutubeChannel>
+    <TagMetaID></TagMetaID>
+    <RelatedArticleMetaID></RelatedArticleMetaID>
+    <EventSmartFormID></EventSmartFormID>
+    <ArticlesSmartformConfigID>10</ArticlesSmartformConfigID>
+    <VideoSmartformID></VideoSmartformID>
+    <CategoryArticleListingSmartfromID>14</CategoryArticleListingSmartfromID>
+    <ColumnistSmartformConfigID>15</ColumnistSmartformConfigID>
+    <ClassifiedSmartformID></ClassifiedSmartformID>
+    <LetterToEditorSmartformID></LetterToEditorSmartformID>
+    <FooterSmartFormConfigID>9</FooterSmartFormConfigID>
+    <ClassifiedTaxonomyID datavalue_idtype="taxonomy" datavalue_displayvalue="Classified Ads «Taxonomy:119»">119</ClassifiedTaxonomyID>
+    <TaxonomyCustomPropertyID></TaxonomyCustomPropertyID>
+    <DefaultDocument>home.aspx</DefaultDocument>
+  </Settings>
+</root>

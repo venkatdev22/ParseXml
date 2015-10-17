@@ -1,0 +1,26 @@
+﻿<root>
+  <Article>
+    <Headline>Headline</Headline>
+    <Source>Source</Source>
+    <LeadInCopy>Lead in copy</LeadInCopy>
+    <PullQuote>pull quote</PullQuote>
+    <Body>body text</Body>
+    <SquareImage>/uploadedImages/Configuration/logosqr.png?n=3199</SquareImage>
+    <PhotoGallery>
+      <Title>photo gal title 1</Title>
+      <Credit>credit 1</Credit>
+      <PhotoItems>
+        <Photo>/uploadedImages/Configuration/logo1.png?n=9641</Photo>
+        <Caption>Caption1</Caption>
+      </PhotoItems>
+      <PhotoItems>
+        <Photo>/uploadedImages/Configuration/logo.png?n=2866</Photo>
+        <Caption>Caption2</Caption>
+      </PhotoItems>
+    </PhotoGallery>
+    <Author datavalue_idtype="content:htmlcontent" datavalue_displayvalue="Sample Content Block «HTML Content:30»">30</Author>
+    <AuthorName>Author name</AuthorName>
+    <DisplayColumnistsBio>0</DisplayColumnistsBio>
+    <PostDate>2015-09-29</PostDate>
+  </Article>
+</root>

@@ -1,0 +1,40 @@
+﻿<root>
+  <Article>
+    <Headline>(1)Pope Francis will Canonize Blessed Junipero Serra in Washington</Headline>
+    <ByLine>Francis X. Rocca  |  Catholic News Service</ByLine>
+    <Summary>
+      <p>(B)ABOARD THE PAPAL FLIGHT FROM MANILA, Philippines (CNS) - Pope Francis said his September trip to the U.S. will take him to Philadelphia, New York and Washington</p>
+      <p></p>
+    </Summary>
+    <PullQuote>Pull quote</PullQuote>
+    <Body>
+      (B)ABOARD THE PAPAL FLIGHT FROM MANILA, Philippines (CNS) - Pope Francis said his September trip to the U.S. will take him to Philadelphia, New York and Washington
+      <br />
+    </Body>
+    <SquareImage>/uploadedImages/Content/Opinions/Columnists/sub_thumb1.jpg</SquareImage>
+    <PhotoGallery>
+      <Title>Gallery1</Title>
+      <Credit>Francis</Credit>
+      <PhotoItems>
+        <Photo>/uploadedImages/Content/Opinions/Columnists/columnist1.jpg?n=8339</Photo>
+        <Caption>Item1</Caption>
+      </PhotoItems>
+      <PhotoItems>
+        <Photo>/uploadedImages/Content/Opinions/Columnists/columnist2.jpg?n=2201</Photo>
+        <Caption>Item2</Caption>
+      </PhotoItems>
+      <PhotoItems>
+        <Photo></Photo>
+        <Caption>Item3</Caption>
+      </PhotoItems>
+      <PhotoItems>
+        <Photo>/uploadedImages/Content/Opinions/Columnists/columnist3.jpg?n=1975</Photo>
+        <Caption>Item3</Caption>
+      </PhotoItems>
+    </PhotoGallery>
+    <Columnist datavalue_idtype="content:htmlcontent" datavalue_displayvalue="Columnists «HTML Content:43»">43</Columnist>
+    <AuthorName></AuthorName>
+    <DisplayColumnistsBio>1</DisplayColumnistsBio>
+    <PostDate>2015-04-14</PostDate>
+  </Article>
+</root>

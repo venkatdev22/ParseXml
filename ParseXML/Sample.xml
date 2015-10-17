@@ -1,0 +1,22 @@
+﻿<root>
+  <Article>
+    <Headline>ArtArticle</Headline>
+    <ByLine>Source</ByLine>
+    <Summary>lead</Summary>
+    <PullQuote></PullQuote>
+    <Body></Body>
+    <SquareImage></SquareImage>
+    <PhotoGallery>
+      <Title></Title>
+      <Credit></Credit>
+      <PhotoItems>
+        <Photo>Photo</Photo>
+        <Caption>Caption</Caption>
+      </PhotoItems>
+    </PhotoGallery>
+    <Columnist datavalue_displayvalue="Sample Content Block «HTML Content:30»" datavalue_idtype="content:htmlcontent">30</Columnist>
+    <AuthorName></AuthorName>
+    <DisplayColumnistsBio>1</DisplayColumnistsBio>
+    <PostDate>2015-09-21</PostDate>
+  </Article>
+</root>

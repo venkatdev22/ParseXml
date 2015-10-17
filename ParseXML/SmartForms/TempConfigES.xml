@@ -1,0 +1,30 @@
+﻿<root>
+  <Settings>
+    <Logo></Logo>
+    <UtilityNavigationMenuID></UtilityNavigationMenuID>
+    <AppendToPageTitle></AppendToPageTitle>
+    <FacebookProfileURL></FacebookProfileURL>
+    <TwitterProfileURL></TwitterProfileURL>
+    <PinterestProfileURL></PinterestProfileURL>
+    <EventDefaultHeroImage></EventDefaultHeroImage>
+    <ColumnistDefaultProfilePicture></ColumnistDefaultProfilePicture>
+    <DisqusConfiguration></DisqusConfiguration>
+    <FacebookConfiguration></FacebookConfiguration>
+    <FacebookAppIdEN></FacebookAppIdEN>
+    <FacebookAdminsId></FacebookAdminsId>
+    <CNSYoutubeChannel></CNSYoutubeChannel>
+    <ACHYoutubeChannel></ACHYoutubeChannel>
+    <TagMetaID></TagMetaID>
+    <RelatedArticleMetaID></RelatedArticleMetaID>
+    <EventSmartFormID></EventSmartFormID>
+    <ArticlesSmartformConfigID></ArticlesSmartformConfigID>
+    <VideoSmartformID></VideoSmartformID>
+    <CategoryArticleListingSmartfromID></CategoryArticleListingSmartfromID>
+    <ColumnistSmartformConfigID></ColumnistSmartformConfigID>
+    <ClassifiedSmartformID></ClassifiedSmartformID>
+    <LetterToEditorSmartformID></LetterToEditorSmartformID>
+    <FooterSmartFormConfigID></FooterSmartFormConfigID>
+    <TaxonomyCustomPropertyID></TaxonomyCustomPropertyID>
+    <DefaultDocument>/home/</DefaultDocument>
+  </Settings>
+</root>

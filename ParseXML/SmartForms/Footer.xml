@@ -1,0 +1,47 @@
+﻿<root>
+  <Footer>
+    <FooterLogo>/uploadedImages/Configuration/footer_logo.jpg?n=4334</FooterLogo>
+    <CopyrightText>© Arlington Catholic Herald 2015</CopyrightText>
+    <ContactUs>
+      <HeaderText>Contact Us</HeaderText>
+      <AddressLineOne>Arlington Catholic Herald</AddressLineOne>
+      <AddressLineTwo>200 N. Glebe Rd.</AddressLineTwo>
+      <AddressLineThree>Suite 600</AddressLineThree>
+      <City>Arlington,</City>
+      <State>VA</State>
+      <ZipCode>22203</ZipCode>
+      <Phone>703-841-2590</Phone>
+      <TollFreeNumber>800-377-0511</TollFreeNumber>
+      <AllContacts>
+        <a href="/cmslogin.aspx?id=30" title="Sample Content Block">Sample Content Block</a>
+      </AllContacts>
+    </ContactUs>
+    <FooterLinks>
+      <a title="Advertise" href="http://www.Advertise.com">Advertise</a>
+    </FooterLinks>
+    <FooterLinks>
+      <a title="Classifieds" href="/classifieds/">Classifieds</a>
+    </FooterLinks>
+    <FooterLinks>
+      <a href="http://www.BuyPhotos.com">Buy Photos</a>
+    </FooterLinks>
+    <FooterLinks>
+      <a href="http://www.AboutUs.com">About Us</a>
+    </FooterLinks>
+    <ResourceLinks>
+      <Resource>
+        <a href="http://ArlingtonDiocese.com">Arlington Diocese</a>
+      </Resource>
+    </ResourceLinks>
+    <ResourceLinks>
+      <Resource>
+        <a href="http://USCCB.com">USCCB</a>
+      </Resource>
+    </ResourceLinks>
+    <ResourceLinks>
+      <Resource>
+        <a href="http://w2.vatican.va/">La Santa Sede</a>
+      </Resource>
+    </ResourceLinks>
+  </Footer>
+</root>

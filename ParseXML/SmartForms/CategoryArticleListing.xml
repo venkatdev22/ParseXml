@@ -1,0 +1,14 @@
+﻿<root>
+  <CategoryArticleListing>
+    <Header>Header</Header>
+    <Link>
+      <a href="http://test link" target="_blank">linktext</a>
+    </Link>
+    <FeaturedArticles>
+      <FeaturedTaxonomy datavalue_idtype="taxonomy" datavalue_displayvalue="Articles «Taxonomy:200»">200</FeaturedTaxonomy>
+    </FeaturedArticles>
+    <ArticleTaxonomy>
+      <Taxonomy datavalue_idtype="taxonomy" datavalue_displayvalue="Local News «Taxonomy:128»">128</Taxonomy>
+    </ArticleTaxonomy>
+  </CategoryArticleListing>
+</root>

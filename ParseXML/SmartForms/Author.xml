@@ -1,0 +1,10 @@
+﻿<root>
+  <Author>
+    <Name>Test Author nam</Name>
+    <Title>Title</Title>
+    <Email>EmailId</Email>
+    <BioDetails>data</BioDetails>
+    <ProfilePicture>/uploadedImages/Configuration/logo.png</ProfilePicture>
+    <TwitterID>@devan21</TwitterID>
+  </Author>
+</root>
